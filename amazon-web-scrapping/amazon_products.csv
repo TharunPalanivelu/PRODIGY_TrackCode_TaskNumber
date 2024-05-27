@@ -1,14 +1,6 @@
-   Rank  ...             Headquarters
-0     1  ...    Bentonville, Arkansas
-1     2  ...      Seattle, Washington
-2     3  ...            Spring, Texas
-3     4  ...    Cupertino, California
-4     5  ...    Minnetonka, Minnesota
-..  ...  ...                      ...
-95   96  ...     Richfield, Minnesota
-96   97  ...  New York City, New York
-97   98  ...        Chicago, Illinois
-98   99  ...   Waltham, Massachusetts
-99  100  ...    San Diego, California
-
-[100 rows x 7 columns]
+Name,Price,Rating
+"iQOO Z6 Pro 5G (Phantom Dusk, 6GB RAM, 128GB Storage)",23990,"4.3 out of 5 stars"
+"iQOO 9 SE 5G (Sunset Sierra, 8GB RAM, 128GB Storage)",33990,"4.5 out of 5 stars"
+"iQOO 7 5G (Storm Black, 8GB RAM, 128GB Storage)",31990,"4.4 out of 5 stars"
+"iQOO Z3 5G (Cyber Blue, 6GB RAM, 128GB Storage)",19990,"4.2 out of 5 stars"
+"iQOO 9 Pro 5G (Legend, 8GB RAM, 256GB Storage)",49990,"4.6 out of 5 stars"
