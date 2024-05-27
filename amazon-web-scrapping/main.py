@@ -40,7 +40,7 @@ def main():
     url = 'https://www.amazon.in/s?k=iqoo+mobile&rh=n%3A1389401031&ref=nb_sb_noss'
     html = get_html(url)
     products = parse_html(html)
-    save_to_csv(products, 'products.csv')
+    save_to_csv(products, 'amazon_products.csv')
 
 if __name__ == '__main__':
     main()
